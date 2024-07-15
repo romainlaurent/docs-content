@@ -2427,8 +2427,8 @@
               {
                 "items": [
                   {
-                  "label": "",
-                  "slug": ""
+                  "label": "Create a Data Lab",
+                  "slug": "create-data-lab"
                   }
                 ],
                 "label": "How to",
